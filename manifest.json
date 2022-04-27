@@ -1,0 +1,9 @@
+{
+    "name": "Comfy Shadow",
+    "description": "Stay comfy in the shade!",
+    "preview": "https://github.com/ohitstom/comfy-shadow/blob/main/preview.png?raw=true",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "include": ["https://raw.githubusercontent.com/ohitstom/comfy-shadow/main/Comfy_Shadow.js"]
+}
