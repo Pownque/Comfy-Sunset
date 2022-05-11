@@ -79,12 +79,65 @@ nav.Root__nav-bar:hover {
     background-color: #2b2b2b90;
 }
 
+/*/ Top playlist button recolors /*/
+div.main-actionBar-ActionBar.contentSpacing > div > button.HbKLiGoYM4dpuK8L4TMX > svg{
+  color: var(--spice-playlist-controls);
+}
+
+div.main-actionBar-ActionBar.contentSpacing > div > svg{
+  color: var(--spice-playlist-controls);
+}
+
+div.main-actionBar-ActionBar.contentSpacing > div > button.main-moreButton-button > svg{
+  color: var(--spice-playlist-controls);
+}
+
+div.main-actionBar-ActionBar.contentSpacing > div > div > div > button > svg{
+  color: var(--spice-playlist-controls);
+}
+
+div.main-actionBar-ActionBar.contentSpacing > div > div > button > span{
+  color: var(--spice-playlist-controls);
+}
+
+div.main-actionBar-ActionBar.contentSpacing > div > div > button > svg{
+  color: var(--spice-playlist-controls);
+}
+
+/*/ Top left play button /*/
+div.main-actionBar-ActionBar.contentSpacing > div > button.Button-qlcn5g-0.bqeOGM > div{
+  color: var(--spice-upper-play-in);
+}
 
 /*/ Progress Bar Recolor /*/
 .progress-bar {
 	--bg-color: var(--spice-player);
 }
 
+/*/ playlist description recolor /*/
+div.main-entityHeader-headerText > h2.main-entityHeader-subtitle.main-entityHeader-gray > button > p{
+  color: var(--spice-description);
+}  
+
+/*/ playlist length recolor /*/
+div.main-entityHeader-headerText > div > span:nth-child(3) > span{
+  color: var(--spice-text);
+}
+
+/*/ track length bottom right /*/
+div.main-nowPlayingBar-center > div > div.playback-bar > div.Type__TypeElement-goli3j-0.eHgQDo.main-playbackBarRemainingTime-container{
+  color: var(--spice-track-time);
+}
+
+/*/ track time bottom left /*/
+div.main-nowPlayingBar-center > div > div.playback-bar > div.Type__TypeElement-goli3j-0.eHgQDo.playback-bar__progress-time-elapsed{
+  color: var(--spice-track-time);  
+}
+
+/*/ Queue button recolor fix /*/
+div.main-nowPlayingBar-right > div > div.GlueDropTarget.GlueDropTarget--tracks.GlueDropTarget--local-tracks.GlueDropTarget--episodes > div > button > span > svg{
+  color: var(--spice-subtext);
+}
 
 /*/ Shuffle Button Recolor /*/
 .main-shuffleButton-button.pp1ooFGqFEUG5ucC6_KW:not([disabled]):focus:not(:focus-visible):not(:hover) {
@@ -93,12 +146,12 @@ nav.Root__nav-bar:hover {
 
 /*/ Track Length /*/
 div.main-trackList-trackList.main-trackList-indexable > div.JUa6JJNj7R_Y3i4P8YUX > div:nth-child(2) > div:nth-child(n) > div > div.main-trackList-rowSectionEnd > div {
-    color: #fef3bb;
+    color: var(--spice-subtext);
 }
 
 /*/ Date Added /*/
 div.main-trackList-trackList.main-trackList-indexable > div.JUa6JJNj7R_Y3i4P8YUX > div:nth-child(2) > div:nth-child(n) > div > div:nth-child(4) > span {
-    color: #fef3bb;
+    color: var(--spice-subtext);
 }
 
 .main-shuffleButton-button:focus:not(:focus-visible):not(:hover) {
@@ -140,8 +193,8 @@ div.main-trackList-trackList.main-trackList-indexable > div.JUa6JJNj7R_Y3i4P8YUX
 
 /*/ Heart Recolor /*/
 :root .main-trackList-rowHeartButton *:not([fill=none]), :root .control-button-heart *:not([fill=none]) {
-    color: #ff8300 !important;
-    fill: #ff8300 !important;
+    color: var(--spice-heart) !important;
+    fill: var(--spice-heart) !important;
 }
 
 .main-addButton-button:focus, .main-addButton-button:hover {
@@ -236,7 +289,7 @@ svg.main-coverSlotExpandedCollapseButton-chevron {
 }
 
 .progress-bar {
-    --bg-color: var(--spice-button-disabled);
+    --bg-color: var(--spice-vol-prog-back);
     --fg-color: var(--spice-subtext);
     --is-active-fg-color: #ffffff;
     --progress-bar-transform: 0%;
@@ -284,7 +337,7 @@ aside.main-buddyFeed-buddyFeedRoot {
 }
 
 :root .Root__main-view section[data-testid=playlist-page] .main-trackList-trackListRow.main-trackList-active:hover .main-trackList-rowTitle, .main-trackList-trackListRow.main-trackList-active:hover .main-trackList-rowMarker {
-	color: rgb(255,255,255);
+	color: rgb(255, 255, 255);
 	text-shadow: 0px 0px 6px white;
 	-webkit-text-stroke: thin;
 }
@@ -366,10 +419,11 @@ aside.main-buddyFeed-buddyFeedRoot {
 	border-radius: var(--border-radius);
 }
 
+/*/ upper left play button /*/
 .encore-dark-theme .encore-bright-accent-set {
-    --background-base: #ffffff;
-    --background-highlight: #ffffff;
-    --background-press: #ffffff;
+    --background-base: var(--spice-upper-play-out);
+    --background-highlight: var(--spice-upper-play-out);
+    --background-press: var(--spice-upper-play-out);
 }
 
 .main-actionBar-ActionBarRow>:first-child {
@@ -880,7 +934,7 @@ aside.main-buddyFeed-buddyFeedRoot {
 :root .Root__now-playing-bar .playback-bar .playback-progressbar > div > div > div > div {
   width: 105%;
   background-color: transparent;
-  background-image: linear-gradient(90deg, #ff8300 93%, transparent 100%);
+  background-image: linear-gradient(90deg, var(--spice-progress-bar) 93%, transparent 100%);
 }
 :root .Root__now-playing-bar .playback-bar .playback-progressbar .progress-bar__slider {
   display: none;
