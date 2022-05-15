@@ -6,4 +6,7 @@ COLOR SCHEMES:
 Sunset:
 ![Comfy-Sunset-Preview](https://user-images.githubusercontent.com/104531555/168456808-c9bcc018-1319-4550-bc2f-b4187be03771.png)
 
+Shadow:
+![Comfy-Shadow-Preview](https://user-images.githubusercontent.com/104531555/168457350-e5837d37-d039-4e5c-84f3-b567b63cac69.png)
+
 There will be more color schemes added soon!
