@@ -1,9 +1,9 @@
 {
-    "name": "Comfy Shadow",
-    "description": "Stay comfy in the shade!",
-    "preview": "https://github.com/ohitstom/comfy-shadow/blob/main/preview.png?raw=true",
+    "name": "Comfy Sunset",
+    "description": "Clean theme based on Comfy and Comfy Shadow from created by NYRI4 and ohitsom respectively.",
+    "preview": "https://github.com/Pownque/Comfy-Sunset/blob/main/Comfy-Sunset-Preview.png",
     "readme": "README.md",
     "usercss": "user.css",
     "schemes": "color.ini",
-    "include": ["https://raw.githubusercontent.com/ohitstom/comfy-shadow/main/Comfy_Shadow.js"]
+    "include": ["https://github.com/Pownque/Comfy-Sunset/blob/main/Comfy_Sunset.js"]
 }
