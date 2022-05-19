@@ -12,4 +12,7 @@ Shadow:
 Blue:
 ![Comfy-Blue-Preview](https://user-images.githubusercontent.com/104531555/169105439-49046d56-ade5-4be1-8d78-331b0661c532.png)
 
+Forest:
+![Comfy-Forest-Preview](https://user-images.githubusercontent.com/104531555/169376932-d79156ae-6277-43d8-bf11-fe16e33b6662.png)
+
 There will be more color schemes added soon!
