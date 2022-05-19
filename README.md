@@ -9,7 +9,7 @@ Sunset:
 Shadow:
 ![Comfy-Shadow-Preview](https://user-images.githubusercontent.com/104531555/168457350-e5837d37-d039-4e5c-84f3-b567b63cac69.png)
 
-Blue:
+Cyan:
 ![Comfy-Blue-Preview](https://user-images.githubusercontent.com/104531555/169105439-49046d56-ade5-4be1-8d78-331b0661c532.png)
 
 Forest:
