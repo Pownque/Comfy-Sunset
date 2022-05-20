@@ -9,10 +9,13 @@ Sunset:
 Shadow:
 ![Comfy-Shadow-Preview](https://user-images.githubusercontent.com/104531555/168457350-e5837d37-d039-4e5c-84f3-b567b63cac69.png)
 
-Cyan:
+Neon:
 ![Comfy-Blue-Preview](https://user-images.githubusercontent.com/104531555/169105439-49046d56-ade5-4be1-8d78-331b0661c532.png)
 
 Forest:
 ![Comfy-Forest-Preview](https://user-images.githubusercontent.com/104531555/169376932-d79156ae-6277-43d8-bf11-fe16e33b6662.png)
+
+Sakura:
+![image](https://user-images.githubusercontent.com/104531555/169545089-2cea36a4-7997-48a0-aadd-e8a9f8517696.png)
 
 There will be more color schemes added soon!
